@@ -1,8 +1,8 @@
-## Hi there 👋 Welcome to my github page 
+# Hi there 👋 Welcome to my Github page 
 
-![Nomanguni](./Nomah.jpeg)
+## I am Nomanguni, a dedicated AI & Robotics student, specializing in the development of intelligent systems that enhance real-world interactions. With a strong foundation in Information Technology and hands-on experience building robotics projects, I am passionate about leveraging emerging technologies like artificial intelligence and machine learning to solve complex problems.
 
-I am Nomanguni, a dedicated AI & Robotics student at Eduvos, specializing in the development of intelligent systems that enhance real-world interactions. With a strong foundation in Information Technology and hands-on experience building robotics projects, I am passionate about leveraging emerging technologies like artificial intelligence and machine learning to solve complex problems.
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomahk25&layout=compact&theme=radical)
 

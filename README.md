@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my github page 
 
-![Nomanguni](./Nomah)
+![Nomanguni](./Nomah.jpeg)
 
 I am Nomanguni, a dedicated AI & Robotics student at Eduvos, specializing in the development of intelligent systems that enhance real-world interactions. With a strong foundation in Information Technology and hands-on experience building robotics projects, I am passionate about leveraging emerging technologies like artificial intelligence and machine learning to solve complex problems.
 
